@@ -148,7 +148,7 @@ class HyperGPT2:
 # Usage is Here
 
 
-def hyper_is_litening():
+def hyper_is_listening():
         bot = HyperGPT2()
         intro = f"""\n\nHYPER GPT v2\n\nModels: GPT-3/4\nCreator: {bot.codedBy}\n\nlet's chat...\n\n"""
         print(intro)
@@ -178,4 +178,4 @@ def hyper_is_litening():
 if __name__ == "__main__":
 
         # listen...
-        hyper_is_litening()
+        hyper_is_listening()
